@@ -23,3 +23,4 @@ stm32c8t6\stm32f1xx_hal_rcc_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_
 stm32c8t6\stm32f1xx_hal_rcc_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 stm32c8t6\stm32f1xx_hal_rcc_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 stm32c8t6\stm32f1xx_hal_rcc_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+stm32c8t6\stm32f1xx_hal_rcc_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
